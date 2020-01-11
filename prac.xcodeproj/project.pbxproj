@@ -99,8 +99,8 @@
 		9B57172B23C92ECE0096BB16 /* prac */ = {
 			isa = PBXGroup;
 			children = (
-				9B57172C23C92ECE0096BB16 /* AppDelegate.swift */,
 				9B57172E23C92ECE0096BB16 /* SceneDelegate.swift */,
+				9B57172C23C92ECE0096BB16 /* AppDelegate.swift */,
 				9B57173023C92ECE0096BB16 /* ViewController.swift */,
 				9B57173223C92ECE0096BB16 /* Main.storyboard */,
 				9B57173523C92ECE0096BB16 /* Assets.xcassets */,
